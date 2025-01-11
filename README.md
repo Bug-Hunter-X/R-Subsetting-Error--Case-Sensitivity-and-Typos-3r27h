@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in R when subsetting data frames using character vectors of column names.  The issue arises from case sensitivity and typos in the column names. The `bug.R` file contains the erroneous code, and `bugSolution.R` provides the corrected version.
